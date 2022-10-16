@@ -1,5 +1,13 @@
 # tf2-custom
 
-Use with mastercomfig-low and kbnhud
+Use with:
+- mastercomfig-low [here](https://mastercomfig.com/app/)
+- kbnhud [here](https://huds.tf/site/s-KBNHud)
 
-copy the ^customizations folder into tf/custom/kbnhud-master, and overwrite the existing
+Copy the Folders
+``` 
+  #crosshairs
+  #enabled
+  ^basefiles
+```
+into ```tf/custom/kbnhud-master/^customizations```, and overwrite the existing ones.
